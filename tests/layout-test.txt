@@ -1,2 +1,2 @@
 title #{title} - training10
-h1 Training10
+h1 training10
